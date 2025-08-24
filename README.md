@@ -6,6 +6,9 @@ Euhe Engine is the expiremntal engine to understanding the pipline of the game e
 This is for the expeirmental and study purpose, may not work properly in certain system and not warrantied either. 
 
 ** This version is an on-going developing versions which may not work yet. Executable version of the engine will be released, TBA ** 
+### Update
+v.0.0.1 
+I got the reversed triangle! 
 
 ### Prerequisites 
 - CMake 3.10 or higher
