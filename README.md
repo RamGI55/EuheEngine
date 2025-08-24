@@ -1,4 +1,6 @@
 ## Euhe Engine 
+![fdf791fad01cc8b8ad68b416b66a3390](https://github.com/user-attachments/assets/5a699234-90fb-4698-8e8b-4dce373e7f7d)
+Euhe!
 
 Euhe Engine is the expiremntal engine to understanding the pipline of the game engine and graphics programming.
 This is for the expeirmental and study purpose, may not work properly in certain system and not warrantied either. 
