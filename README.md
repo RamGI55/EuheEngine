@@ -16,3 +16,6 @@ I got the reversed triangle!
 - C++ Complier with C++ 20 support (GCC, Clang, or MSVC)
 - OpenGL 3.3+ support
 
+
+And More Over..
+https://youtube.com/shorts/7TDYd_2Mb5I?si=pHoiKIFo7FW6U77_
