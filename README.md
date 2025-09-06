@@ -3,6 +3,7 @@
 Euhe!
 
 Euhe Engine is the expiremntal engine to understanding the pipline of the game engine and graphics programming.
+EVERY Function methods starts `Euhe`! Because it is `Euhe` engine.
 This is for the expeirmental and study purpose, may not work properly in certain system and not warrantied either. 
 
 *This version is an on-going developing versions which may not work yet. Executable version of the engine will be released, TBA*
@@ -14,3 +15,4 @@ I got the reversed triangle!
 - CMake 3.10 or higher
 - C++ Complier with C++ 20 support (GCC, Clang, or MSVC)
 - OpenGL 3.3+ support
+
